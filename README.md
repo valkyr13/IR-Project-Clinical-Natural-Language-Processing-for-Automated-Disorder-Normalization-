@@ -9,7 +9,9 @@ Sci spacy pre-trained model is used for ner but it doesnt give better results.(f
 So we train the model with data which is grouped by doc_id because we want our model to predict on document level.
 
 <img src="images/training_data.png" width="500">
-
-Test data is shown in figure below.
+The training data containg the text of one document and all occurences of diseases in that text as "entities"
+Test data contains texts of whole doc which the model will use to predict the disease. It is shown in figure below.
 
 <img src="images/test_data.png" width="500">
+
+When text input is given the model extracts all occurences if disese in that text. It is shown in figure below.
