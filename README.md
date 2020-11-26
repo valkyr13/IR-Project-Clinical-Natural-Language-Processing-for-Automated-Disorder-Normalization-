@@ -5,7 +5,7 @@ Model run using Goggle Collaboratory.
 
 Dataset:  https://www.kaggle.com/rsnayak/hackathon-disease-extraction-saving-lives-with-ai?select=train_3PIRKSI
 The dataset have total 30,000 documents and 191,282 sentences in total. It has total 4,543,833 unique id(words) which means each record is assigned unique id. A screenshot of the dataset.
-<img src="images/
+<img src="images/the%20dataset%20with%20tagging.png" width="500">
 
 Sci spacy pre-trained model is used for ner but it doesnt give better results.(f1_score=0.521)
 So we train the model with data which is grouped by doc_id because we want our model to predict on document level.
