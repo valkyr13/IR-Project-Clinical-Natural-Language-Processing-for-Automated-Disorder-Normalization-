@@ -1,2 +1,2 @@
 # IR-Project-Clinical-Natural-Language-Processing-for-Automated-Disorder-Normalization-
-Team 12
+Team 12: Alisa P (171IT207) , Vandana S (171IT246) , Sreeja (171IT114)
