@@ -5,3 +5,6 @@ Model run using Goggle Collaboratory.
 
 Dataset:  https://www.kaggle.com/rsnayak/hackathon-disease-extraction-saving-lives-with-ai?select=train_3PIRKSI
 
+Sci spacy pre-trained model is used for ner but it doesnt give better results.(f1_score=0.521)
+So we train the model with data which is grouped by doc_id because we want our model to predict on document level.
+![]
