@@ -5,7 +5,7 @@ Model run using Goggle Collaboratory.
 
 Dataset:  https://www.kaggle.com/rsnayak/hackathon-disease-extraction-saving-lives-with-ai?select=train_3PIRKSI
 
-The dataset have total 30,000 documents and 191,282 sentences in total. It has total 4,543,833 unique id(words) which means each record is assigned unique id. A screenshot of the dataset.
+The dataset have total 30,000 documents and 191,282 sentences in total. It has total 4,543,833 unique id(words) which means each record is assigned unique id. A screenshot of the dataset with IOB tagging.
 
 <img src="images/the%20dataset%20with%20tagging.png" width="500">
 
