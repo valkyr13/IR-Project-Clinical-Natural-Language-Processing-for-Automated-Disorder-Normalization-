@@ -15,3 +15,4 @@ Test data contains texts of whole doc which the model will use to predict the di
 <img src="images/test_data.png" width="500">
 
 When text input is given the model extracts all occurences if disese in that text. It is shown in figure below.
+<img src="images/Example_of_disease_extraction.png" width="500">
